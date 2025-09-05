@@ -25,10 +25,4 @@ A simple, interactive Tic Tac Toe game built using **HTML**, **CSS**, and **Java
 ## Author
 [Rutuja Yadav](https://github.com/rutujayadav72)
 
-## 🚀 Getting Started
 
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/rutujayadav72/tic-tac-toe.git
-cd tic-tac-toe
